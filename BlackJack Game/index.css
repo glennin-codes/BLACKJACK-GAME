@@ -1,0 +1,23 @@
+body{
+    background:linear-gradient(2deg,rgb(4, 243, 4) , rgb(20, 150, 3),rgb(4, 243, 4));
+    text-align: center;
+     color: #fff;
+     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+h1{
+    color: rgb(236, 175, 20);
+}
+#message{
+    font-style: italic;
+}
+   
+    button{
+        padding-bottom: 5px;
+        padding-top: 5px;
+        background: gold;
+        width: 150px;
+        margin-bottom: 10px;
+        
+    }
+    
